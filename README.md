@@ -9,4 +9,4 @@ References
 2) Build a SwiftUI chat app with Firestore from scratch, Youtube, last modified Jan 19. 2022, accessed May 10. 2023, https://www.youtube.com/watch?v=Zz9XQy8PRpQ&t=1087s
 3) Networking with Combine and SwiftUI, PETERFRIESE.DEV Blog, last modified Jan 17. 2022, accessed May 10. 2023, https://peterfriese.dev/posts/swiftui-combine-networking-gettingstarted/
 
-if have any problems with this references, please contact me. i will delete this repository.
+if have any problems with this references, please contact me. i will edit this repository.
